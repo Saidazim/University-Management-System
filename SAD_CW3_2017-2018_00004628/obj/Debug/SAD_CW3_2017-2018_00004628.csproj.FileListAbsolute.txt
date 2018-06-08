@@ -1,0 +1,78 @@
+c:\users\user\documents\visual studio 2015\Projects\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\bin\Debug\SAD_CW3_2017-2018_00004628.exe.config
+c:\users\user\documents\visual studio 2015\Projects\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\bin\Debug\SAD_CW3_2017-2018_00004628.exe
+c:\users\user\documents\visual studio 2015\Projects\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\bin\Debug\SAD_CW3_2017-2018_00004628.pdb
+c:\users\user\documents\visual studio 2015\Projects\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\bin\Debug\MetroFramework.Design.dll
+c:\users\user\documents\visual studio 2015\Projects\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\bin\Debug\MetroFramework.dll
+c:\users\user\documents\visual studio 2015\Projects\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\bin\Debug\MetroFramework.Fonts.dll
+c:\users\user\documents\visual studio 2015\Projects\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\obj\Debug\SAD_CW3_2017-2018_00004628.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\obj\Debug\SAD_CW3_2017_2018_00004628.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\obj\Debug\SAD_CW3_2017-2018_00004628.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\obj\Debug\SAD_CW3_2017-2018_00004628.exe
+c:\users\user\documents\visual studio 2015\Projects\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\obj\Debug\SAD_CW3_2017-2018_00004628.pdb
+c:\users\user\documents\visual studio 2015\Projects\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\bin\Debug\EntityFramework.dll
+c:\users\user\documents\visual studio 2015\Projects\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\user\documents\visual studio 2015\Projects\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\bin\Debug\EntityFramework.xml
+c:\users\user\documents\visual studio 2015\Projects\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\user\documents\visual studio 2015\Projects\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\obj\Debug\SAD_CW3_2017_2018_00004628.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\obj\Debug\SAD_CW3_2017_2018_00004628.StaffForm.resources
+c:\users\user\documents\visual studio 2015\Projects\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\obj\Debug\SAD_CW3_2017_2018_00004628.Migrations.news.resources
+c:\users\user\documents\visual studio 2015\Projects\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\obj\Debug\SAD_CW3_2017_2018_00004628.Migrations.modules.resources
+c:\users\user\documents\visual studio 2015\Projects\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\obj\Debug\SAD_CW3_2017_2018_00004628.Migrations.staff.resources
+c:\users\user\documents\visual studio 2015\Projects\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\obj\Debug\SAD_CW3_2017_2018_00004628.Migrations.events.resources
+c:\users\user\documents\visual studio 2015\Projects\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\obj\Debug\SAD_CW3_2017_2018_00004628.Back_desk.resources
+c:\users\user\documents\visual studio 2015\Projects\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\obj\Debug\SAD_CW3_2017_2018_00004628.Login.resources
+c:\users\user\documents\visual studio 2015\Projects\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\obj\Debug\SAD_CW3_2017_2018_00004628.ModulesForm.resources
+c:\users\user\documents\visual studio 2015\Projects\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\obj\Debug\SAD_CW3_2017_2018_00004628.NewsForm.resources
+c:\users\user\documents\visual studio 2015\Projects\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\obj\Debug\SAD_CW3_2017_2018_00004628.EventsForm.resources
+C:\Users\User\Desktop\SAD Backups\12\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\bin\Debug\SAD_CW3_2017-2018_00004628.exe.config
+C:\Users\User\Desktop\SAD Backups\12\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\obj\Debug\SAD_CW3_2017-2018_00004628.exe
+C:\Users\User\Desktop\SAD Backups\12\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\obj\Debug\SAD_CW3_2017-2018_00004628.pdb
+C:\Users\User\Desktop\SAD Backups\12\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\bin\Debug\SAD_CW3_2017-2018_00004628.exe
+C:\Users\User\Desktop\SAD Backups\12\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\bin\Debug\SAD_CW3_2017-2018_00004628.pdb
+C:\Users\User\Desktop\SAD Backups\12\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\SAD Backups\12\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\SAD Backups\12\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\bin\Debug\MetroFramework.Design.dll
+C:\Users\User\Desktop\SAD Backups\12\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\bin\Debug\MetroFramework.dll
+C:\Users\User\Desktop\SAD Backups\12\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\Desktop\SAD Backups\12\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\SAD Backups\12\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\SAD Backups\12\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\obj\Debug\SAD_CW3_2017-2018_00004628.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\SAD Backups\12\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\obj\Debug\SAD_CW3_2017_2018_00004628.Back_desk.resources
+C:\Users\User\Desktop\SAD Backups\12\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\obj\Debug\SAD_CW3_2017_2018_00004628.EventsForm.resources
+C:\Users\User\Desktop\SAD Backups\12\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\obj\Debug\SAD_CW3_2017_2018_00004628.Form1.resources
+C:\Users\User\Desktop\SAD Backups\12\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\obj\Debug\SAD_CW3_2017_2018_00004628.Login.resources
+C:\Users\User\Desktop\SAD Backups\12\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\obj\Debug\SAD_CW3_2017_2018_00004628.ModulesForm.resources
+C:\Users\User\Desktop\SAD Backups\12\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\obj\Debug\SAD_CW3_2017_2018_00004628.NewsForm.resources
+C:\Users\User\Desktop\SAD Backups\12\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\obj\Debug\SAD_CW3_2017_2018_00004628.Properties.Resources.resources
+C:\Users\User\Desktop\SAD Backups\12\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\obj\Debug\SAD_CW3_2017_2018_00004628.StaffForm.resources
+C:\Users\User\Desktop\SAD Backups\12\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\obj\Debug\SAD_CW3_2017-2018_00004628.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\SAD Backups\12\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\obj\Debug\SAD_CW3_2017_2018_00004628.StaffFormRead.resources
+C:\Users\User\Desktop\SAD Backups\12\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\obj\Debug\SAD_CW3_2017_2018_00004628.ModulesFormRead.resources
+C:\Users\User\Desktop\SAD Backups\12\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\obj\Debug\SAD_CW3_2017_2018_00004628.EventsFormRead.resources
+C:\Users\User\Desktop\SAD Backups\12\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\obj\Debug\SAD_CW3_2017_2018_00004628.NewsFormRead.resources
+F:\projects\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\bin\Debug\SAD_CW3_2017-2018_00004628.exe.config
+F:\projects\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\obj\Debug\SAD_CW3_2017-2018_00004628.exe
+F:\projects\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\obj\Debug\SAD_CW3_2017-2018_00004628.pdb
+F:\projects\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\bin\Debug\SAD_CW3_2017-2018_00004628.exe
+F:\projects\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\bin\Debug\SAD_CW3_2017-2018_00004628.pdb
+F:\projects\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\bin\Debug\EntityFramework.dll
+F:\projects\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\bin\Debug\EntityFramework.SqlServer.dll
+F:\projects\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\bin\Debug\MetroFramework.Design.dll
+F:\projects\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\bin\Debug\MetroFramework.dll
+F:\projects\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\bin\Debug\MetroFramework.Fonts.dll
+F:\projects\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\bin\Debug\EntityFramework.xml
+F:\projects\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\bin\Debug\EntityFramework.SqlServer.xml
+F:\projects\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\obj\Debug\SAD_CW3_2017-2018_00004628.csprojResolveAssemblyReference.cache
+F:\projects\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\obj\Debug\SAD_CW3_2017_2018_00004628.Back_desk.resources
+F:\projects\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\obj\Debug\SAD_CW3_2017_2018_00004628.EventsForm.resources
+F:\projects\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\obj\Debug\SAD_CW3_2017_2018_00004628.EventsFormRead.resources
+F:\projects\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\obj\Debug\SAD_CW3_2017_2018_00004628.Form1.resources
+F:\projects\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\obj\Debug\SAD_CW3_2017_2018_00004628.Login.resources
+F:\projects\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\obj\Debug\SAD_CW3_2017_2018_00004628.ModulesForm.resources
+F:\projects\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\obj\Debug\SAD_CW3_2017_2018_00004628.ModulesFormRead.resources
+F:\projects\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\obj\Debug\SAD_CW3_2017_2018_00004628.NewsForm.resources
+F:\projects\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\obj\Debug\SAD_CW3_2017_2018_00004628.NewsFormRead.resources
+F:\projects\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\obj\Debug\SAD_CW3_2017_2018_00004628.Properties.Resources.resources
+F:\projects\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\obj\Debug\SAD_CW3_2017_2018_00004628.StaffForm.resources
+F:\projects\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\obj\Debug\SAD_CW3_2017_2018_00004628.StaffFormRead.resources
+F:\projects\SAD_CW3_2017-2018_00004628\SAD_CW3_2017-2018_00004628\obj\Debug\SAD_CW3_2017-2018_00004628.csproj.GenerateResource.Cache
